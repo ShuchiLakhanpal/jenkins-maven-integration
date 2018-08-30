@@ -50,4 +50,11 @@
 			<version>2.6</version>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+       <repository>
+         <id>internal.repo</id>
+         <name>Internal repo</name>
+         <url>file://c/Users/shuchi/jenkin</url>
+       </repository>
+   </distributionManagement>
 </project>
